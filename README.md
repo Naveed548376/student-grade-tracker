@@ -39,15 +39,15 @@ codealfatask1/
 
 ### Screenshot 1
 
-![Student Grade Tracker - Screenshot 1](images/image1.jpg)
+![Student Grade Tracker - Screenshot 1](images/image1.jpeg)
 
 ### Screenshot 2
 
-![Student Grade Tracker - Screenshot 2](images/image2.jpg)
+![Student Grade Tracker - Screenshot 2](images/image2.jpeg)
 
 ### Screenshot 3
 
-![Student Grade Tracker - Screenshot 3](images/image3.jpg)
+![Student Grade Tracker - Screenshot 3](images/image3.jpeg)
 
 ## 📊 Features
 
@@ -104,7 +104,7 @@ This project demonstrates the use of:
 
 ## 👨‍💻 Author
 
-**Farhan**
+**Naveed Abbas**
 
 ## 📜 Task
 
